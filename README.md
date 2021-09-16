@@ -7,7 +7,10 @@
    **`npm start`**
 
 You will see this on *android* and *ios* web.
+<img src="https://github.com/yashkumarkalyan/cryptolive/blob/main/android.jfif?raw=true" alt="drawing" width="200"/>
+
 ![alt text](https://github.com/yashkumarkalyan/cryptolive/blob/main/android.jfif?raw=true)
+
 ![alt text](https://github.com/yashkumarkalyan/cryptolive/blob/main/ios.jfif?raw=true)
 
 and on pc web.
