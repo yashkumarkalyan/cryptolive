@@ -8,9 +8,7 @@
 
 You will see this on *android* and *ios* web.
 
-<img src="https://github.com/yashkumarkalyan/cryptolive/blob/main/android.jfif?raw=true" alt="drawing" width="200"/>
-
-<img src="https://github.com/yashkumarkalyan/cryptolive/blob/main/ios.jfif?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/yashkumarkalyan/cryptolive/blob/main/android.jfif?raw=true" alt="drawing" width="200"/><img src="https://github.com/yashkumarkalyan/cryptolive/blob/main/ios.jfif?raw=true" alt="drawing" width="200"/>
 
 and on pc web.
 
