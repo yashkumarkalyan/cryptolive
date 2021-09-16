@@ -1,3 +1,5 @@
+**[Run app on netlify](https://yashcryptolive.netlify.app/)**
+
 #### To run locally on your pc:
 - First create-react-app using [Create React App](https://github.com/facebook/create-react-app).
      **`create-react-app`**
