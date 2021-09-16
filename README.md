@@ -14,7 +14,7 @@ You will see this on *android* and *ios* web.
 
 and on pc web.
 
-<img src="https://github.com/yashkumarkalyan/cryptolive/blob/main/android.jfif?raw=true" alt="drawing" width="1400"/>
+<img src="https://github.com/yashkumarkalyan/cryptolive/blob/main/web.png?raw=true" alt="drawing" width="1400"/>
 
 ### Api :
 You can find the rest api used in this project here on [coinGecko Api](https://www.coingecko.com/en/api) .
