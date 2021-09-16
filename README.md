@@ -1,4 +1,4 @@
-#### To run locallyon your pc:
+#### To run locally on your pc:
 - First create-react-app using [Create React App](https://github.com/facebook/create-react-app).
      **`create-react-app`**
 - In the project directory change above files usong 
