@@ -7,11 +7,11 @@
    **`npm start`**
 
 You will see this on *android* and *ios* web.
-![alt text][android]
-![alt text][ios]
+![alt text][https://github.com/yashkumarkalyan/cryptolive/blob/main/android.jfif]
+![alt text][https://github.com/yashkumarkalyan/cryptolive/blob/main/ios.jfif]
 
 and on pc web.
-![alt text][web]
+![alt text][https://github.com/yashkumarkalyan/cryptolive/blob/main/web.png]
 
 ### Api :
 You can find the rest api used in this project here on [coinGecko Api](https://www.coingecko.com/en/api) .
