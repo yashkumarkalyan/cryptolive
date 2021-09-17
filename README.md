@@ -1,4 +1,6 @@
-#### To run locallyon your pc:
+**[Run app on netlify](https://yashcryptolive.netlify.app/)**
+
+#### To run locally on your pc:
 - First create-react-app using [Create React App](https://github.com/facebook/create-react-app).
      **`create-react-app`**
 - In the project directory change above files usong 
@@ -7,11 +9,12 @@
    **`npm start`**
 
 You will see this on *android* and *ios* web.
-![alt text][android]
-![alt text][ios]
+
+<img src="https://github.com/yashkumarkalyan/cryptolive/blob/main/android.jfif?raw=true" alt="drawing" width="200"/>    <img src="https://github.com/yashkumarkalyan/cryptolive/blob/main/ios.jfif?raw=true" alt="drawing" width="200"/>
 
 and on pc web.
-![alt text][web]
+
+<img src="https://github.com/yashkumarkalyan/cryptolive/blob/main/web.png?raw=true" alt="drawing" width="1400"/>
 
 ### Api :
 You can find the rest api used in this project here on [coinGecko Api](https://www.coingecko.com/en/api) .
