@@ -43,9 +43,9 @@ const Coin = ({name,image ,symbol,price,volume,marketcap,priceChange}) => {
                     <div className="coin-volume">Volume&nbsp;:{volume}</div>
                     <div className="coin-marketCap">MktCap&nbsp;:{marketcap}</div>
                     {priceChange < 0 ? (
-            <p className='coin-percent red'>In Loss ({priceChange.toFixed(2)})%</p>
+            <p className='coin-percent red'>In Loss ({priceChange.toFixed(2)})% from 24hrs</p>
           ) : (
-            <p className='coin-percent green'>In Profit ({priceChange.toFixed(2)})%</p>
+            <p className='coin-percent green'>In Profit ({priceChange.toFixed(2)})% from 24 hrs</p>
           )}
           </div>
             </div>
